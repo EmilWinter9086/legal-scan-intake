@@ -1,0 +1,1 @@
+"""Legal document intake example."""
